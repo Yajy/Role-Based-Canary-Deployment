@@ -19,3 +19,6 @@ This project demonstrates a role-based canary deployment strategy using AWS Elas
 - `istio-config/` – Istio Gateway, VirtualService, DestinationRule YAMLs
 - `Dockerfile` – Used to build Docker images for both versions
 - `diagrams/` – Architecture diagrams and request flow illustrations
+
+## Genius Idea:
+Using json to bring UI changes to android App (without the need to download the update)
